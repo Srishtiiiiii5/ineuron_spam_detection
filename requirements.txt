@@ -1,5 +1,5 @@
 joblib
-sklearn
+scikit-learn
 cassandra
 json
 pandas
